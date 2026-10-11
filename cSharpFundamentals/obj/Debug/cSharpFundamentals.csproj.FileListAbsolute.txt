@@ -1,0 +1,6 @@
+C:\Users\Asus\RiderProjects\datatype\cSharpFundamentals\bin\Debug\cSharpFundamentals.exe
+C:\Users\Asus\RiderProjects\datatype\cSharpFundamentals\bin\Debug\cSharpFundamentals.pdb
+C:\Users\Asus\RiderProjects\datatype\cSharpFundamentals\obj\Debug\cSharpFundamentals.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\datatype\cSharpFundamentals\obj\Debug\cSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\datatype\cSharpFundamentals\obj\Debug\cSharpFundamentals.exe
+C:\Users\Asus\RiderProjects\datatype\cSharpFundamentals\obj\Debug\cSharpFundamentals.pdb
