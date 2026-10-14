@@ -25,7 +25,7 @@ namespace cSharpFundamentals._05_UserInput
             //C# prvo cita kod koji je najdublje u zagradi a to je Console.ReadLine sprema unos godina kao string
             //Onda metodom Convert.ToInt32() prebacimo string u Int.
             int age = Convert.ToInt32(Console.ReadLine());
-            
+
             Console.WriteLine("Imate: " + age + "godina/godine");
         }
     }
