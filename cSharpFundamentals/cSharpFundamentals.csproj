@@ -40,7 +40,20 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="datatypes.cs" />
+        <Compile Include="Comments.cs" />
+        <Compile Include="Constants.cs">
+          <DependentUpon>Variables.cs</DependentUpon>
+        </Compile>
+        <Compile Include="DisplayVariables.cs">
+          <DependentUpon>Variables.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Identifiers.cs">
+          <DependentUpon>Variables.cs</DependentUpon>
+        </Compile>
+        <Compile Include="MultipleVariables.cs">
+          <DependentUpon>Variables.cs</DependentUpon>
+        </Compile>
+        <Compile Include="Variables.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
