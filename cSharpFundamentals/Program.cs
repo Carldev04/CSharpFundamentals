@@ -15,6 +15,7 @@ namespace cSharpFundamentals
             Identifiers.PrintIdentifiers(args);
             _03_Data_Types.DataTypes._DataTypes_(args);
             _04_Casting.DataCasting._DataCasting_(args);
+            _05_UserInput.UserInput._UserInput_(args);
         }
     }
 }
