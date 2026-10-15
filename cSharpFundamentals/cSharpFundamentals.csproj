@@ -57,6 +57,11 @@
         <Compile Include="03_DataTypes\DataTypes.cs" />
         <Compile Include="04_Casting\DataCasting.cs" />
         <Compile Include="05_UserInput\UserInput.cs" />
+        <Compile Include="06_Operators\ArithmeticOperators.cs" />
+        <Compile Include="06_Operators\AssignmentOperators.cs" />
+        <Compile Include="06_Operators\ComparisonOperators.cs" />
+        <Compile Include="06_Operators\LogicalOperators.cs" />
+        <Compile Include="07_Math\Math.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
