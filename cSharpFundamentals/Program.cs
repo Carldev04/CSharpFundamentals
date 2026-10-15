@@ -16,6 +16,11 @@ namespace cSharpFundamentals
             _03_Data_Types.DataTypes._DataTypes_(args);
             _04_Casting.DataCasting._DataCasting_(args);
             _05_UserInput.UserInput._UserInput_(args);
+            _06_Operators.ArithmeticOperators._Operators_();
+            _06_Operators.AssignmentOperators._AssignmentOperators_(args);
+            _06_Operators.ComparisonOperators._ComparisonOperators_(args);
+            _06_Operators.LogicalOperators._LogicalOperators_(args);
+            _07_Math.Math._Math_();
         }
     }
 }
