@@ -20,7 +20,8 @@ namespace cSharpFundamentals
             _06_Operators.AssignmentOperators._AssignmentOperators_(args);
             _06_Operators.ComparisonOperators._ComparisonOperators_(args);
             _06_Operators.LogicalOperators._LogicalOperators_(args);
-            _07_Math.Math._Math_();
+            _07_Math.MathExample._Math_(args);
+            _08_StringExamples.typeOfString.Strings(args);
         }
     }
 }
