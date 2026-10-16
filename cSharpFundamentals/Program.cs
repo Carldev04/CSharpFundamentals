@@ -22,6 +22,8 @@ namespace cSharpFundamentals
             _06_Operators.LogicalOperators._LogicalOperators_(args);
             _07_Math.MathExample._Math_(args);
             _08_StringExamples.typeOfString.Strings(args);
+            _08_StringExamples.StringConcatenation.StringConcatenationExample();
+            _08_StringExamples.StringInterpolation.StringInterpolationExample();
         }
     }
 }
