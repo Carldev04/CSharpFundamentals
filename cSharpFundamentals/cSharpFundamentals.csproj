@@ -62,9 +62,12 @@
         <Compile Include="06_Operators\ComparisonOperators.cs" />
         <Compile Include="06_Operators\LogicalOperators.cs" />
         <Compile Include="07_Math\MathExample.cs" />
+        <Compile Include="08_StringExamples\AccessStrings.cs" />
+        <Compile Include="08_StringExamples\SpecialCharacters.cs" />
         <Compile Include="08_StringExamples\StringConcatenation.cs" />
         <Compile Include="08_StringExamples\StringInterpolation.cs" />
         <Compile Include="08_StringExamples\typeOfString.cs" />
+        <Compile Include="09_Booleans\Booleans.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
