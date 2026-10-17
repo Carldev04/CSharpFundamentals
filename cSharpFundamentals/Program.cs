@@ -24,6 +24,9 @@ namespace cSharpFundamentals
             _08_StringExamples.typeOfString.Strings(args);
             _08_StringExamples.StringConcatenation.StringConcatenationExample();
             _08_StringExamples.StringInterpolation.StringInterpolationExample();
+            _08_StringExamples.AccessStrings.AccessStringsExample(args);
+            _08_StringExamples.SpecialCharacters.SpecialCharactersExample(args);
+            _09_Booleans.Booleans.BooleansExample(args);
         }
     }
 }
