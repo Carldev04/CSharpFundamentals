@@ -14,7 +14,7 @@ namespace cSharpFundamentals._10_IfElse
 
             int time = 24;
             string result = (time > 11) ? "Good afternoon again:" : "Good evening.";
-            Console.WriteLine(result);
+            Console.WriteLine(result); //Ispisuje "Good evening."
         }
     }
 }
