@@ -68,8 +68,15 @@
         <Compile Include="08_StringExamples\StringInterpolation.cs" />
         <Compile Include="08_StringExamples\typeOfString.cs" />
         <Compile Include="09_Booleans\Booleans.cs" />
+        <Compile Include="10_IfElse\ifElseIf.cs" />
+        <Compile Include="10_IfElse\ifElseStatement.cs" />
+        <Compile Include="10_IfElse\ifstatement.cs" />
+        <Compile Include="10_IfElse\ShortHandIfElse.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="11_switch\" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

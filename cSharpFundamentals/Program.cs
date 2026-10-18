@@ -27,6 +27,9 @@ namespace cSharpFundamentals
             _08_StringExamples.AccessStrings.AccessStringsExample(args);
             _08_StringExamples.SpecialCharacters.SpecialCharactersExample(args);
             _09_Booleans.Booleans.BooleansExample(args);
+            _10_IfElse.ifstatement.ifstatementExample(args);
+            _10_IfElse.ifElseStatement.ifElseStatementExample(args);
+            _10_IfElse.ifElseIf.ifElseIfExample(args);
         }
     }
 }
