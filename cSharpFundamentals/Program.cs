@@ -30,6 +30,8 @@ namespace cSharpFundamentals
             _10_IfElse.ifstatement.ifstatementExample(args);
             _10_IfElse.ifElseStatement.ifElseStatementExample(args);
             _10_IfElse.ifElseIf.ifElseIfExample(args);
+            _11_switch.switchName.SwitchExample(args);
+            _12_whilepetlje.whilepetlje.WhilePetljaExample(args);
         }
     }
 }
