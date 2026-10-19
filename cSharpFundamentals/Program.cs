@@ -34,6 +34,8 @@ namespace cSharpFundamentals
             _12_whilepetlje.whilepetlje.WhilePetljaExample(args);
             _13_forpetlja.ForPetlja.ForPetljaExample(args);
             _13_forpetlja.ForeachLoop.ForeachLoop_Example();
+            _14_break_continue.BreakContinue.BreakContinueExample(args);
+            _15_Nizovi.Nizovi.NizoviExample(args);
         }
     }
 }
