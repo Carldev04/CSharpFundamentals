@@ -32,6 +32,8 @@ namespace cSharpFundamentals
             _10_IfElse.ifElseIf.ifElseIfExample(args);
             _11_switch.switchName.SwitchExample(args);
             _12_whilepetlje.whilepetlje.WhilePetljaExample(args);
+            _13_forpetlja.ForPetlja.ForPetljaExample(args);
+            _13_forpetlja.ForeachLoop.ForeachLoop_Example();
         }
     }
 }
