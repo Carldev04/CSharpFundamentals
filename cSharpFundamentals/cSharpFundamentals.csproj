@@ -76,11 +76,10 @@
         <Compile Include="12_whilepetlje\whilepetlje.cs" />
         <Compile Include="13_forpetlja\ForeachLoop.cs" />
         <Compile Include="13_forpetlja\ForPetlja.cs" />
+        <Compile Include="14_break_continue\BreakContinue.cs" />
+        <Compile Include="15_Nizovi\Nizovi.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
-    </ItemGroup>
-    <ItemGroup>
-      <Folder Include="14_break_continue\" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
