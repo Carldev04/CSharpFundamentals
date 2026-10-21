@@ -36,6 +36,10 @@ namespace cSharpFundamentals
             _13_forpetlja.ForeachLoop.ForeachLoop_Example();
             _14_break_continue.BreakContinue.BreakContinueExample(args);
             _15_Nizovi.Nizovi.NizoviExample(args);
+            _15_Nizovi.LoopThroughArrays.LoopThroughArraysExample(args);
+            _15_Nizovi.SortArrays.SortArrays_Example(args);
+            _15_Nizovi.MultidimensionalArrays.MultidimensionalArraysExample(args);
+            _16_Metode.Metode.MetodeExample(args);
         }
     }
 }
