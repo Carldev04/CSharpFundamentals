@@ -40,6 +40,11 @@ namespace cSharpFundamentals
             _15_Nizovi.SortArrays.SortArrays_Example(args);
             _15_Nizovi.MultidimensionalArrays.MultidimensionalArraysExample(args);
             _16_Metode.Metode.MetodeExample(args);
+            _16_Metode.Parameters.ParametersExample(args);
+            _16_Metode.DefaultParameterValue.DefaultParameterValueExample();
+            _16_Metode.ReturnValues.ReturnValuesExample(args);
+            _16_Metode.NamedArguments.NamedArgumentsExample(args);
+            _16_Metode.MethodOverloading.MethodOverloadingExample(args);
         }
     }
 }
