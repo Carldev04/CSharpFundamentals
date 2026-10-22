@@ -81,7 +81,18 @@
         <Compile Include="15_Nizovi\MultidimensionalArrays.cs" />
         <Compile Include="15_Nizovi\Nizovi.cs" />
         <Compile Include="15_Nizovi\SortArrays.cs" />
+        <Compile Include="16_Metode\DefaultParameterValue.cs">
+          <DependentUpon>Parameters.cs</DependentUpon>
+        </Compile>
+        <Compile Include="16_Metode\MethodOverloading.cs" />
         <Compile Include="16_Metode\Metode.cs" />
+        <Compile Include="16_Metode\NamedArguments.cs">
+          <DependentUpon>Parameters.cs</DependentUpon>
+        </Compile>
+        <Compile Include="16_Metode\Parameters.cs" />
+        <Compile Include="16_Metode\ReturnValues.cs">
+          <DependentUpon>Parameters.cs</DependentUpon>
+        </Compile>
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
