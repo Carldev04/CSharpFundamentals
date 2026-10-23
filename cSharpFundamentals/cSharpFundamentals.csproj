@@ -93,6 +93,7 @@
         <Compile Include="16_Metode\ReturnValues.cs">
           <DependentUpon>Parameters.cs</DependentUpon>
         </Compile>
+        <Compile Include="17_OOP\OOP.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
