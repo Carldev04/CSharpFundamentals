@@ -46,5 +46,5 @@ Sve lekcije nalaze se unutar direktorija `cSharpFundamentals` i organizirane su 
 
 1. **Kloniraj repozitorij:**
    ```bash
-   git clone [https://github.com/Carldev04/CSharpFundamentals.git](https://github.com/Carldev04/CSharpFundamentals.git)
+   git clone [https://github.com/Carldev04/CSharpFundamentals.git]
 
