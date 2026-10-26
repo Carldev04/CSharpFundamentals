@@ -46,6 +46,7 @@ namespace cSharpFundamentals
             _16_Metode.NamedArguments.NamedArgumentsExample(args);
             _16_Metode.MethodOverloading.MethodOverloadingExample(args);
             _17_OOP.OOP.OOPExample(args);
+            _18_ClassesAndObjects.ClassesAndObjects.ClassesAndObjectsExample(args);
         }
     }
 }
