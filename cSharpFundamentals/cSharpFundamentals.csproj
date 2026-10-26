@@ -94,6 +94,7 @@
           <DependentUpon>Parameters.cs</DependentUpon>
         </Compile>
         <Compile Include="17_OOP\OOP.cs" />
+        <Compile Include="18_ClassesAndObjects\ClassesAndObjects.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
