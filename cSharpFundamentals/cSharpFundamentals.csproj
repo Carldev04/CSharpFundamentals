@@ -103,6 +103,13 @@
           <DependentUpon>MultipleClassesAndObjects.cs</DependentUpon>
         </Compile>
         <Compile Include="19_ClassMembers\ClassMembers.cs" />
+        <Compile Include="19_ClassMembers\prog.cs">
+          <DependentUpon>ClassMembers.cs</DependentUpon>
+        </Compile>
+        <Compile Include="19_ClassMembers\prog2.cs">
+          <DependentUpon>ClassMembers.cs</DependentUpon>
+        </Compile>
+        <Compile Include="20_Constructors\Constructors.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
