@@ -51,6 +51,8 @@ namespace cSharpFundamentals
             _18_ClassesAndObjects.prog2.prog2Example(args);
             _18_ClassesAndObjects.prog.progExample(args);
             _19_ClassMembers.ClassMembers.ClassMembersExample(args);
+            _19_ClassMembers.prog2.prog2Example(args);
+            _20_Constructors.Constructors.ConstructorsExample(args);
         }
     }
 }
