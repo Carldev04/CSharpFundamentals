@@ -31,6 +31,12 @@ Sve lekcije nalaze se unutar direktorija `cSharpFundamentals` i organizirane su 
 | **15** | [`15_Nizovi`](./cSharpFundamentals/15_Nizovi) | Jednodimenzionalni i višedimenzionalni nizovi (Arrays), pristup elementima i sortiranje |
 | **16** | [`16_Metode`](./cSharpFundamentals/16_Metode) | Definiranje i pozivanje metoda, parametri, povratne vrijednosti (`return`) i *Method Overloading* |
 | **17** | [`17_OOP`](./cSharpFundamentals/17_OOP) | Osnove objektno orijentiranog programiranja (Klase, Objekti, Polja, Svojstva, Konstruktori) |
+| **18** | [18_ClassesAndObjects](https://github.com/Carldev04/CSharpFundamentals/tree/master/cSharpFundamentals/18_ClassesAndObjects) | Kreiranje klasa i instanciranje objekata u memoriji |
+| **19** | [19_ClassMembers](https://github.com/Carldev04/CSharpFundamentals/tree/master/cSharpFundamentals/19_ClassMembers) | Pristup članovima klase (polja, metode) |
+| **20** | [20_Constructors](https://github.com/Carldev04/CSharpFundamentals/tree/master/cSharpFundamentals/20_Constructors) | Inicijalizacija objekata pomoću konstruktora i parametri u konstruktorima |
+| **21** | [21_AccessModifiers](https://github.com/Carldev04/CSharpFundamentals/tree/master/cSharpFundamentals/21_AccessModifiers) | Kontrola pristupa i vidljivosti (`public`, `private`, `internal`) |
+| **22** | [22_Properties](https://github.com/Carldev04/CSharpFundamentals/tree/master/cSharpFundamentals/22_Properties) | Enkapsulacija podataka pomoću `get` i `set` accessor-a (Full i Short-hand properties) |
+| **23** | [23_inheritance](https://github.com/Carldev04/CSharpFundamentals/tree/master/cSharpFundamentals/23_inheritance) | Nasljeđivanje klasa (Base i Derived klase, reiskoristivost koda pomoću znaka `:`) |
 
 ---
 
