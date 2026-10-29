@@ -4,7 +4,7 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
-Dobro došli u moj repozitorij posvećen učenju i savladavanju osnova **C#** programskog jezika i **.NET** platforme! Ovaj repozitorij je strukturiran kronološki kroz 17 lekcija — od osnovne sintakse i tipova podataka, preko kontrole toka i petlji, pa sve do objektno orijentiranog programiranja (OOP).
+Dobro došli u moj repozitorij posvećen učenju i savladavanju osnova **C#** programskog jezika i **.NET** platforme! Ovaj repozitorij je strukturiran kronološki kroz 23 lekcije — od osnovne sintakse i tipova podataka, preko kontrole toka i petlji, pa sve do objektno orijentiranog programiranja (OOP).
 
 ---
 
@@ -31,20 +31,20 @@ Sve lekcije nalaze se unutar direktorija `cSharpFundamentals` i organizirane su 
 | **15** | [`15_Nizovi`](./cSharpFundamentals/15_Nizovi) | Jednodimenzionalni i višedimenzionalni nizovi (Arrays), pristup elementima i sortiranje |
 | **16** | [`16_Metode`](./cSharpFundamentals/16_Metode) | Definiranje i pozivanje metoda, parametri, povratne vrijednosti (`return`) i *Method Overloading* |
 | **17** | [`17_OOP`](./cSharpFundamentals/17_OOP) | Osnove objektno orijentiranog programiranja (Klase, Objekti, Polja, Svojstva, Konstruktori) |
-| **18** | [18_ClassesAndObjects](https://github.com/Carldev04/CSharpFundamentals/tree/master/cSharpFundamentals/18_ClassesAndObjects) | Kreiranje klasa i instanciranje objekata u memoriji |
-| **19** | [19_ClassMembers](https://github.com/Carldev04/CSharpFundamentals/tree/master/cSharpFundamentals/19_ClassMembers) | Pristup članovima klase (polja, metode) |
-| **20** | [20_Constructors](https://github.com/Carldev04/CSharpFundamentals/tree/master/cSharpFundamentals/20_Constructors) | Inicijalizacija objekata pomoću konstruktora i parametri u konstruktorima |
-| **21** | [21_AccessModifiers](https://github.com/Carldev04/CSharpFundamentals/tree/master/cSharpFundamentals/21_AccessModifiers) | Kontrola pristupa i vidljivosti (`public`, `private`, `internal`) |
-| **22** | [22_Properties](https://github.com/Carldev04/CSharpFundamentals/tree/master/cSharpFundamentals/22_Properties) | Enkapsulacija podataka pomoću `get` i `set` accessor-a (Full i Short-hand properties) |
-| **23** | [23_inheritance](https://github.com/Carldev04/CSharpFundamentals/tree/master/cSharpFundamentals/23_inheritance) | Nasljeđivanje klasa (Base i Derived klase, reiskoristivost koda pomoću znaka `:`) |
+| **18** | [`18_ClassesAndObjects`](./cSharpFundamentals/18_ClassesAndObjects) | Kreiranje klasa i instanciranje objekata u memoriji |
+| **19** | [`19_ClassMembers`](./cSharpFundamentals/19_ClassMembers) | Pristup članovima klase (polja, metode) |
+| **20** | [`20_Constructors`](./cSharpFundamentals/20_Constructors) | Inicijalizacija objekata pomoću konstruktora i parametri u konstruktorima |
+| **21** | [`21_AccessModifiers`](./cSharpFundamentals/21_AccessModifiers) | Kontrola pristupa i vidljivosti (`public`, `private`, `internal`) |
+| **22** | [`22_Properties`](./cSharpFundamentals/22_Properties) | Enkapsulacija podataka pomoću `get` i `set` accessor-a (Full i Short-hand properties) |
+| **23** | [`23_inheritance`](./cSharpFundamentals/23_inheritance) | Nasljeđivanje klasa (Base i Derived klase, reiskoristivost koda pomoću znaka `:`) |
 
 ---
 
 ## 🛠️ Korištene tehnologije i alati
 
-* **Jezik:** C#
-* **Framework:** .NET SDK
-* **Razvojno okruženje (IDE):** JetBrains Rider
+- **Jezik:** C#
+- **Framework:** .NET SDK
+- **Razvojno okruženje (IDE):** JetBrains Rider
 
 ---
 
@@ -52,5 +52,4 @@ Sve lekcije nalaze se unutar direktorija `cSharpFundamentals` i organizirane su 
 
 1. **Kloniraj repozitorij:**
    ```bash
-   git clone [https://github.com/Carldev04/CSharpFundamentals.git]
-
+   git clone https://github.com/Carldev04/CSharpFundamentals.git
