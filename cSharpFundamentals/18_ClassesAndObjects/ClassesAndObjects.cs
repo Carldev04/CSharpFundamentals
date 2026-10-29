@@ -4,7 +4,6 @@ namespace cSharpFundamentals._18_ClassesAndObjects
 {
     public class ClassesAndObjects
     {
-
         class Car //Kreoramo klasu Car
         { 
            public string color = "red"; //string color u clasi car predstavlja polje.

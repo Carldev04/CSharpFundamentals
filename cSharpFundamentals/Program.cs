@@ -54,8 +54,12 @@ namespace cSharpFundamentals
             _19_ClassMembers.prog2.prog2Example(args);
             _20_Constructors.Constructors_1.ConstructorsExample(args);
             _20_Constructors.Constructors_2.Constructors_2Example(args);
-            
             _20_Constructors.ConstructorsDemo.prog2Example(args);
+            _21_AccessModifiers.AccessModifiers.AccessModifiersExample(args);
+            _21_AccessModifiers.PrivateModifier.PrivateModifierExample(args); //Ovo ako ne napravim konzola nece ispisati kod.
+            _22_Properties.Properties.PropertiesExample(args);
+            _22_Properties.AutomaticProperties_ShortHand.AutomaticProperties_ShortHandExample(args);
+            _23_inheritance.Inheritance.InheritanceExample(args);
         }
     }
 }

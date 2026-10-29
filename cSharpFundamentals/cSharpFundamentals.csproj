@@ -118,6 +118,10 @@
           <DependentUpon>Constructors_2.cs</DependentUpon>
         </Compile>
         <Compile Include="21_AccessModifiers\AccessModifiers.cs" />
+        <Compile Include="21_AccessModifiers\PrivateModifier.cs" />
+        <Compile Include="22_Properties\AutomaticProperties_ShortHand.cs" />
+        <Compile Include="22_Properties\Properties.cs" />
+        <Compile Include="23_inheritance\Inheritance.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
