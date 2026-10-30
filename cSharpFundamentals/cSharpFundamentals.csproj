@@ -122,6 +122,8 @@
         <Compile Include="22_Properties\AutomaticProperties_ShortHand.cs" />
         <Compile Include="22_Properties\Properties.cs" />
         <Compile Include="23_inheritance\Inheritance.cs" />
+        <Compile Include="24_Polymorphism\Polymorphism.cs" />
+        <Compile Include="25_Abstraction\Abstraction.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
