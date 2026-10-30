@@ -60,6 +60,7 @@ namespace cSharpFundamentals
             _22_Properties.Properties.PropertiesExample(args);
             _22_Properties.AutomaticProperties_ShortHand.AutomaticProperties_ShortHandExample(args);
             _23_inheritance.Inheritance.InheritanceExample(args);
+            _24_Polymorphism.Polymorphism.PolymorphismExample(args);
         }
     }
 }
