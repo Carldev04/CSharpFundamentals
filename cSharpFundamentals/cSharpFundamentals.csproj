@@ -124,6 +124,9 @@
         <Compile Include="23_inheritance\Inheritance.cs" />
         <Compile Include="24_Polymorphism\Polymorphism.cs" />
         <Compile Include="25_Abstraction\Abstraction.cs" />
+        <Compile Include="26_Interface\IAnimal.cs" />
+        <Compile Include="26_Interface\IAnimalSound.cs" />
+        <Compile Include="27_Enums\Enums.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
