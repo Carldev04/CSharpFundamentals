@@ -4,7 +4,7 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
-Dobro došli u moj repozitorij posvećen učenju i savladavanju osnova **C#** programskog jezika i **.NET** platforme! Ovaj repozitorij je strukturiran kronološki kroz 23 lekcije — od osnovne sintakse i tipova podataka, preko kontrole toka i petlji, pa sve do objektno orijentiranog programiranja (OOP).
+Dobro došli u moj repozitorij posvećen učenju i savladavanju osnova **C#** programskog jezika i **.NET** platforme! Ovaj repozitorij je strukturiran kronološki kroz lekcije — od osnovne sintakse i tipova podataka, preko kontrole toka i petlji, pa sve do naprednog objektno orijentiranog programiranja (OOP).
 
 ---
 
@@ -37,6 +37,10 @@ Sve lekcije nalaze se unutar direktorija `cSharpFundamentals` i organizirane su 
 | **21** | [`21_AccessModifiers`](./cSharpFundamentals/21_AccessModifiers) | Kontrola pristupa i vidljivosti (`public`, `private`, `internal`) |
 | **22** | [`22_Properties`](./cSharpFundamentals/22_Properties) | Enkapsulacija podataka pomoću `get` i `set` accessor-a (Full i Short-hand properties) |
 | **23** | [`23_inheritance`](./cSharpFundamentals/23_inheritance) | Nasljeđivanje klasa (Base i Derived klase, reiskoristivost koda pomoću znaka `:`) |
+| **24** | [`24_Polymorphism`](./cSharpFundamentals/24_Polymorphism) | Polimorfizam (metode `virtual`, `override`, `new`) |
+| **25** | [`25_Abstraction`](./cSharpFundamentals/25_Abstraction) | Apstraktne klase i apstraktne metode (`abstract`) |
+| **26** | [`26_Interface`](./cSharpFundamentals/26_Interface) | Sučelja (`interface`) i višestruko nasljeđivanje ponašanja |
+| **27** | [`27_Enums`](./cSharpFundamentals/27_Enums) | Nabrojani tipovi podataka (`enum`) za definiranje skupa imenovanih konstanti |
 
 ---
 
