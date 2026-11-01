@@ -68,5 +68,9 @@ namespace cSharpFundamentals._29_Exceptions
             {
             checkAge(15);
             }
+            
+            //Takodjer mogao sam za svaki exception napraviti jedan primjer i svaki spremiti u različiti fajl
+            //Ali mi se neda :D zelim da ounacim ovaj REPO kao gotov.
+            //Kad se sjetim svaki dan cu dodavat jedan fajl sa primjerom za svaki exception.
     }
 }
