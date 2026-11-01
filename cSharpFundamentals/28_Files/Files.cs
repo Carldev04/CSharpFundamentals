@@ -76,7 +76,7 @@ namespace cSharpFundamentals._28_Files
             //Posto se datoteka Marko.txt je zamijenjena sa Ante.txt i spremljena kao voce.txt, datoteka Ante.txt je izbrisana.
             
             //Ovaj kod je mogao biti napisan u dva fajla kao u pravom OOP duhu.
-            //Prvi bi fajl sadrzavao sve metode koje smo koristili za kreiranje datoteka i zadnje 3 metode koje smo koristili za parametre u metodi Replace()
+            //Prvi bi fajl sadrzavao sve metode koje smo koristili za kreiranje datoteka i zadnje 3 varijable koje smo koristili za parametre u metodi Replace()
             //Drugi fajl bi bio jedan veliki komentar sa zadacima i onda bi samo pisali File.(pa sve metode koje smo vjezbali.)
         }
     }
