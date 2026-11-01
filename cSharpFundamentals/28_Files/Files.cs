@@ -1,5 +1,5 @@
 using System;
-using System.IO; //
+using System.IO; //Paketi za rad sa datotekama
 namespace cSharpFundamentals._28_Files
 
 {
@@ -30,8 +30,6 @@ namespace cSharpFundamentals._28_Files
             string sourceFileName = "Ante.txt";
             string destinationFileName = "Marko.txt";
             string destinationFileName2 = "voce.txt";
-            
-            
             
             //Kada smo kreirali tri datoteke sada cemo malo manipulirati sa System.IO metodama kao sto su: AppendAllText(), Delete(), Replace()
             
