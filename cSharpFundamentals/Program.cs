@@ -64,6 +64,9 @@ namespace cSharpFundamentals
             _25_Abstraction.Abstraction.AbstractionExample(args);
             _26_Interface.GlasanjeZivotinja.GlasanjeZivotinjaExample(args);
             _26_Interface.Program.ProgramExample(args);
+            _27_Enums.Enums.EnumsExample(args);
+            _28_Files.Files.FilesExample(args);
+            _29_Exceptions.Exceptions.ExceptionsExample(args);
         }
     }
 }
