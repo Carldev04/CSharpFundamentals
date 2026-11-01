@@ -1,5 +1,5 @@
 using System;
-using System.IO; //
+using System.IO; //Paketi za rad sa datotekama
 namespace cSharpFundamentals._28_Files
 
 {
@@ -31,11 +31,9 @@ namespace cSharpFundamentals._28_Files
             string destinationFileName = "Marko.txt";
             string destinationFileName2 = "voce.txt";
             
-            
-            
             //Kada smo kreirali tri datoteke sada cemo malo manipulirati sa System.IO metodama kao sto su: AppendAllText(), Delete(), Replace()
             
-            //Koristeći metodu AppendAllText() dodaj na postojeću datoteku Ante.txt da: "Marko voli životinje\n"
+            //Koristeći metodu AppendAllText() dodaj na postojeću datoteku Marko.txt da: "Marko voli životinje\n"
 
             string dodanMarkovNotes = "Marko voli životinje\n";
             File.AppendAllText("Marko.txt", dodanMarkovNotes); //Dodali smo text u već postojeći fajl. 
@@ -43,7 +41,7 @@ namespace cSharpFundamentals._28_Files
             //koristeći Copy() kopirati datoteku File.txt u kopija_File.txt
             File.Copy("File.txt", "kopija_File.txt", true);
             
-            //Provjeriti da li postoji file pod nazivom kopija_File.txt postoji i neka ispise poruku "Datoteka kopija_File.txt postoji."
+            //Provjeriti da li postoji file pod nazivom kopija_File.txt ako postoji i neka ispise poruku "Datoteka kopija_File.txt postoji."
             if (File.Exists("kopija_File.txt"))
             {
                 Console.WriteLine("Datoteka kopija_File.txt postoji.");
@@ -68,7 +66,7 @@ namespace cSharpFundamentals._28_Files
             
             //Kreirati novu praznu txt datoteku pod imenom voce.txt
             File.Create("voce.txt").Close();
-            //kreirana prazna datoteka voce.txt i zatvorili je jer da je nismo zatvorili. Kod ispod bi pucao
+            //kreirana prazna datoteka voce.txt i zatvorili je, jer da je nismo zatvorili. Kod ispod bi pucao
             
             //koristeci metodu Replace() zamjenuti markovNotes sa anteNotes ali da Marka spremi u voce.txt
             File.Replace(sourceFileName, destinationFileName, destinationFileName2);
@@ -76,7 +74,7 @@ namespace cSharpFundamentals._28_Files
             //Posto se datoteka Marko.txt je zamijenjena sa Ante.txt i spremljena kao voce.txt, datoteka Ante.txt je izbrisana.
             
             //Ovaj kod je mogao biti napisan u dva fajla kao u pravom OOP duhu.
-            //Prvi bi fajl sadrzavao sve metode koje smo koristili za kreiranje datoteka i zadnje 3 varijable koje smo koristili za parametre u metodi Replace()
+            //Prvi bi fajl sadrzavao sve varijable koje smo koristili za kreiranje datoteka i zadnje 3 varijable koje smo koristili za parametre u metodi Replace()
             //Drugi fajl bi bio jedan veliki komentar sa zadacima i onda bi samo pisali File.(pa sve metode koje smo vjezbali.)
         }
     }
