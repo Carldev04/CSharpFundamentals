@@ -4,7 +4,7 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
-Dobro došli u moj repozitorij posvećen učenju i savladavanju osnova **C#** programskog jezika i **.NET** platforme! Ovaj repozitorij je strukturiran kronološki kroz lekcije — od osnovne sintakse i tipova podataka, preko kontrole toka i petlji, pa sve do naprednog objektno orijentiranog programiranja (OOP).
+Dobro došli u moj repozitorij posvećen učenju i savladavanju osnova **C#** programskog jezika i **.NET** platforme! Ovaj repozitorij je strukturiran kronološki kroz lekcije — od osnovne sintakse i tipova podataka, preko kontrole toka i petlji, pa sve do objektno orijentiranog programiranja (OOP), rada s datotekama i upravljanja iznimkama.
 
 ---
 
@@ -41,6 +41,8 @@ Sve lekcije nalaze se unutar direktorija `cSharpFundamentals` i organizirane su 
 | **25** | [`25_Abstraction`](./cSharpFundamentals/25_Abstraction) | Apstraktne klase i apstraktne metode (`abstract`) |
 | **26** | [`26_Interface`](./cSharpFundamentals/26_Interface) | Sučelja (`interface`) i višestruko nasljeđivanje ponašanja |
 | **27** | [`27_Enums`](./cSharpFundamentals/27_Enums) | Nabrojani tipovi podataka (`enum`) za definiranje skupa imenovanih konstanti |
+| **28** | [`28_Files`](./cSharpFundamentals/28_Files) | Rad s datotekama (`System.IO`) — kreiranje, pisanje, čitanje i brisanje pomoću klase `File` |
+| **29** | [`29_Exceptions`](./cSharpFundamentals/29_Exceptions) | Upravljanje iznimkama i greškama u izvođenju (`try`, `catch`, `finally` i `throw`) |
 
 ---
 
@@ -57,3 +59,4 @@ Sve lekcije nalaze se unutar direktorija `cSharpFundamentals` i organizirane su 
 1. **Kloniraj repozitorij:**
    ```bash
    git clone https://github.com/Carldev04/CSharpFundamentals.git
+   ```
