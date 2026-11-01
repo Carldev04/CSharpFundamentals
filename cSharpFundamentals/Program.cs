@@ -67,6 +67,7 @@ namespace cSharpFundamentals
             _27_Enums.Enums.EnumsExample(args);
             _28_Files.Files.FilesExample(args);
             _29_Exceptions.Exceptions.ExceptionsExample(args);
+            _29_Exceptions.Exceptions.checkAgeExample(args);
         }
     }
 }
